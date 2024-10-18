@@ -14,7 +14,7 @@ const Header = () => {
 
     return (
         <div id="header">
-        <Link to='/' id='logo'>NFT Room</Link>
+        <Link to='/' id='logo'> SpEaK's Haberdashery</Link>
 
         <div id="link-containers">
           <a>Start Hunting</a>

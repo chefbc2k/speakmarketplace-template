@@ -3,7 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/plugin-transform-class-properties": "^7.25.7",
+    "@babel/plugin-transform-nullish-coalescing-operator": "^7.25.8",
+    "@babel/plugin-transform-numeric-separator": "^7.25.8",
+    "@babel/plugin-transform-optional-chaining": "^7.25.8",
+    "@babel/plugin-transform-private-methods": "^7.25.7",
+    "@eslint/config-array": "^0.18.0",
+    "@eslint/object-schema": "^2.1.4",
     "@google/model-viewer": "^1.10.1",
+    "@jridgewell/sourcemap-codec": "^1.5.0",
+    "@rollup/plugin-terser": "^0.4.4",
+    "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
@@ -15,6 +25,7 @@
     "react-router-dom": "^6.2.1",
     "react-scripts": "5.0.0",
     "react-slick": "^0.28.1",
+    "typescript": "^5.6.3",
     "web-vitals": "^2.1.2"
   },
   "scripts": {
